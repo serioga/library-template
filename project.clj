@@ -5,6 +5,4 @@
 
   :dependencies []
 
-  :profiles {:provided {:dependencies [[org.clojure/clojure "1.11.1"]]}}
-
-  :deploy-repositories [["clojars" {:url "https://clojars.org/repo" :sign-releases false}]])
+  :profiles {:provided {:dependencies [[org.clojure/clojure "1.11.1"]]}})
