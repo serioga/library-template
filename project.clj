@@ -1,7 +1,7 @@
 (defproject com.github.strojure/PROJECT_NAME "0.0.0-0-SNAPSHOT"
   :description "PROJECT_DESCRIPTION"
   :url "https://github.com/strojure/PROJECT_NAME"
-  :license {:name "The MIT License" :url "http://opensource.org/licenses/MIT"}
+  :license {:name "The Unlicense" :url "https://unlicense.org"}
 
   :dependencies []
 
